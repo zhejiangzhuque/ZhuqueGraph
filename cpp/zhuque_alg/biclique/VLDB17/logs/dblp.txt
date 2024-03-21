@@ -1,0 +1,56 @@
+all
+ -f ../data/dblp-author/dblp.txt -d core -p 5 -q 5 -e1000000
+core 15 14
+g: 1953085 5624219 12282059
+5 5 1000000
+localButterflyTime:3634ms
+z:120
+que_size:1000000
+average probability:0.381277
+sampleTime:5466ms
+reId:201070 659209
+here
+here
+sorted
+buildGraph:1168ms
+2-2 clique 5157680
+collect 2
+maxDegree of H 281
+2-2:1.89689e+09
+pqtime,2-2 114ms
+2-2 clique 160245913
+collect 2
+maxDegree of H 60
+3-3:3.0704e+07
+pqtime,3-3 90ms
+2-2 clique 6863142815
+collect 2
+maxDegree of H 55
+4-4:3.55785e+07
+pqtime,4-4 144ms
+2-2 clique 336002102933
+collect 2
+maxDegree of H 43
+5-5:1.24421e+08
+pqtime,5-5 487ms
+2-2 clique 17084432454881
+collect 2
+maxDegree of H 36
+6-6:4.84615e+08
+pqtime,6-6 1994ms
+2-2 clique 841524699320815
+collect 2
+maxDegree of H 33
+7-7:1.29145e+09
+pqtime,7-7 5825ms
+2-2 clique 38702421075765432
+collect 2
+maxDegree of H 31
+8-8:2.2878e+09
+pqtime,8-8 12018ms
+2-2 clique 1639383729374258432
+collect 2
+maxDegree of H 30
+9-9:2.65179e+09
+pqtime,9-9 22934ms
+totaltime:50728ms

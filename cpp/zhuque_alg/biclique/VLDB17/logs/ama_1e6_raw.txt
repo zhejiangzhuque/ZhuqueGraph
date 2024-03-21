@@ -1,0 +1,57 @@
+all
+alpha:0
+ -f ../data/amazon-ratings/ama.txt -d core -p 4 -q 4 -e1000000
+core 27 26
+g: 2146057 1230915 5743258
+4 4 1000000
+localButterflyTime:11749ms
+z:37
+que_size:1000000
+average probability:0.648738
+sampleTime:13099ms
+reId:560861 91184
+here
+here
+sorted
+buildGraph:608ms
+2-2 clique 5715186
+collect 2
+maxDegree of H 9471
+2-2:1.02731e+74
+pqtime,2-2 10008ms
+2-2 clique 6228601
+collect 2
+maxDegree of H 4158
+3-3:2.2085e+52
+pqtime,3-3 10799ms
+2-2 clique 20275415
+collect 2
+maxDegree of H 2374
+4-4:9.51578e+31
+pqtime,4-4 8508ms
+2-2 clique 105536147
+collect 2
+maxDegree of H 1546
+5-5:1.15206e+18
+pqtime,5-5 2388ms
+2-2 clique 672166528
+collect 2
+maxDegree of H 1077
+6-6:5.80502e+06
+pqtime,6-6 1031ms
+2-2 clique 4543776699
+collect 2
+maxDegree of H 816
+7-7:996.66
+pqtime,7-7 719ms
+2-2 clique 30107624876
+collect 2
+maxDegree of H 618
+8-8:2
+pqtime,8-8 641ms
+2-2 clique 187961609941
+collect 2
+maxDegree of H 485
+9-9:0
+pqtime,9-9 610ms
+totaltime:48888ms

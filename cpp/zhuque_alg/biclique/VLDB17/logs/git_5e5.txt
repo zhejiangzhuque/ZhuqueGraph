@@ -1,0 +1,43 @@
+all
+ -f ../data/github/github.txt -d core -p 4 -q 4 -e500000
+core 40 40
+g: 56519 120867 440237
+4 4 500000
+localButterflyTime:1540ms
+z:0
+que_size:440237
+average probability:1
+sampleTime:1697ms
+reId:56519 120867
+here
+here
+sorted
+buildGraph:170ms
+2-2 clique 1836672708
+collect 2
+maxDegree of H 2408
+2-2:5.08945e+07
+pqtime,2-2 416858ms
+2-2 clique 35573601567505
+collect 2
+maxDegree of H 1528
+2-3:3.04504e+08
+pqtime,2-3 159495ms
+2-2 clique 531465062333038656
+collect 2
+maxDegree of H 1204
+2-4:4.21209e+09
+pqtime,2-4 89492ms
+2-2 clique 6351964081766767001600
+collect 2
+maxDegree of H 922
+2-5:8.73261e+10
+pqtime,2-5 315071ms
+2-2 clique 63263444932191974141722624
+collect 2
+maxDegree of H 739
+2-6:2.11193e+12
+pqtime,2-6 6512922ms
+2-2 clique 540061954116125201525578399744
+collect 2
+maxDegree of H 603

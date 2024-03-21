@@ -1,0 +1,13 @@
+﻿cmake_minimum_required (VERSION 3.8)
+set( CMAKE_CXX_COMPILER "g++" )
+set( CMAKE_C_COMPILER "gcc" )
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_C_STANDARD 11)
+find_package(pybind11 REQUIRED)
+include_directories(./src/)
+set(SOURCE_FILES "./src/algorithms.cpp" "./src/polyEnum.cpp" "./src/cliqueEnum.cpp" "./src/main.cpp")
+pybind11_add_module(clique ${SOURCE_FILES})
+target_compile_options(clique PUBLIC -O3)
+target_compile_options(clique PUBLIC -g)
+#switch the ver in DEV or Release, 
+set(CMAKE_BUILD_TYPE Release)

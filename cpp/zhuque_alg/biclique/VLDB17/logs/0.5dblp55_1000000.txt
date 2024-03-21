@@ -1,0 +1,20 @@
+ -f ../data/dblp-author/dblp.txt -d core -p 5 -q 5 -e1000000
+core 15 14
+g: 1953085 5624219 12282059
+5 5 1000000
+localButterflyTime:3626ms
+z:45
+que_size:1000000
+average probability:0.928249
+sampleTime:5528ms
+reId:57046 444577
+here
+here
+sorted
+buildGraph:730ms
+2-2 clique 355076755138
+collect 2
+maxDegree of H 55
+5-5:1.25391e+08
+pqtime5-5 519ms
+totaltime:7159ms

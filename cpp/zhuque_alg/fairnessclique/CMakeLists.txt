@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.8)
+set( CMAKE_CXX_COMPILER "g++" )
+set( CMAKE_C_COMPILER "gcc" )
+find_package(pybind11 REQUIRED)
+set(SOURCE_FILES "fairnessclique.cpp" "Graph.cpp" "RelativeFair.cpp" "baseline.cpp")
+pybind11_add_module(fairnessclique ${SOURCE_FILES})

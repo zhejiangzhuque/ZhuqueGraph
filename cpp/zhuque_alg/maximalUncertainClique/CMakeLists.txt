@@ -1,0 +1,6 @@
+cmake_minimum_required (VERSION 3.8)
+set( CMAKE_CXX_COMPILER "g++" )
+set( CMAKE_C_COMPILER "gcc" )
+find_package(pybind11 REQUIRED)
+set(SOURCE_FILES "algorithms.cpp" "maximalClique.cpp" "main.cpp")
+pybind11_add_module(maximalCliques ${SOURCE_FILES})

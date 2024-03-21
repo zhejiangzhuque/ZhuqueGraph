@@ -1,0 +1,20 @@
+ -f ../data/amazon-ratings/ama.txt -d core -p 10 -q 10 -e200000
+core 27 26
+g: 2146057 1230915 5743258
+10 10 200000
+localButterflyTime:11865ms
+z:610
+que_size:200000
+average probability:0.502506
+sampleTime:12282ms
+reId:30055 39575
+here
+here
+sorted
+buildGraph:96ms
+2-2 clique 4510583089785347244032
+collect 2
+maxDegree of H 669
+10-10:1.16156e+09
+pqtime10-10 72300ms
+totaltime:84816ms

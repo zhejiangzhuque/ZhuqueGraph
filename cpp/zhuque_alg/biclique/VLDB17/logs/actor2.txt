@@ -1,0 +1,56 @@
+all
+ -f ../data/actor2/actor2.txt -d core -p 4 -q 4 -e1000000
+core 24 24
+g: 303617 896302 3782463
+4 4 1000000
+localButterflyTime:3518ms
+z:41
+que_size:1000000
+average probability:0.741052
+sampleTime:4594ms
+reId:149773 107630
+here
+here
+sorted
+buildGraph:496ms
+2-2 clique 17393625
+collect 2
+maxDegree of H 2972
+2-2:3.17737e+07
+pqtime,2-2 22885ms
+2-2 clique 56933954
+collect 2
+maxDegree of H 1799
+3-3:1.10222e+08
+pqtime,3-3 24135ms
+2-2 clique 1048839581
+collect 2
+maxDegree of H 1134
+4-4:1.38667e+09
+pqtime,4-4 27036ms
+2-2 clique 28599346520
+collect 2
+maxDegree of H 737
+5-5:1.1072e+10
+pqtime,5-5 63537ms
+2-2 clique 808837827442
+collect 2
+maxDegree of H 489
+6-6:4.88384e+10
+pqtime,6-6 216109ms
+2-2 clique 21841913659579
+collect 2
+maxDegree of H 331
+7-7:1.22966e+11
+pqtime,7-7 461318ms
+2-2 clique 549234198024172
+collect 2
+maxDegree of H 216
+8-8:1.84655e+11
+pqtime,8-8 702911ms
+2-2 clique 12778747127725136
+collect 2
+maxDegree of H 161
+9-9:1.70213e+11
+pqtime,9-9 958114ms
+totaltime:2481307ms

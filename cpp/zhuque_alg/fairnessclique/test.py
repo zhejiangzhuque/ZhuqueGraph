@@ -1,0 +1,4 @@
+import fairnessclique
+
+fairnessclique.algorithm()
+
